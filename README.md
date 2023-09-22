@@ -86,6 +86,7 @@ At StarOwl Social, we believe in providing an open canvas:
 - [x] #0
 - [ ] https://github.com/Star-Owl/daily-mineral-bot/issues/1
 - [ ] Add delight to the experience when all tasks are complete :tada:
+
 ---
 
 ## Core Principles
