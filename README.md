@@ -74,6 +74,18 @@ At StarOwl Social, we believe in providing an open canvas:
 
 ### [💎 Discord Daily Mineral Bot 🪨](https://github.com/Star-Owl/daily-mineral-bot)
 
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
+
+- [x] #0
+- [ ] https://github.com/Star-Owl/daily-mineral-bot/issues/1
+- [ ] Add delight to the experience when all tasks are complete :tada:
 ---
 
 ## Core Principles
