@@ -15,7 +15,7 @@ We're a cozy corner of the internet where art and tech hang out like best buds. 
 
 ## Core Projects
 
-### ⭐️ StarOwl Social 🦉
+### [⭐️ StarOwl Social 🦉](https://github.com/Star-Owl/Star-Owl-Social)
 
 Dive into the heart of the artistic universe with StarOwl Social! 
 
