@@ -83,9 +83,9 @@ At StarOwl Social, we believe in providing an open canvas:
 > [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
 
-- [x] #0
-- [ ] https://github.com/Star-Owl/daily-mineral-bot/issues/1
-- [ ] Add delight to the experience when all tasks are complete :tada:
+> - [x] #0
+> - [ ] https://github.com/Star-Owl/daily-mineral-bot/issues/1
+> - [ ] Add delight to the experience when all tasks are complete :tada:
 
 ---
 
