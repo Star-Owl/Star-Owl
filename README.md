@@ -58,7 +58,7 @@ Keep your posts relevant and time-aware with our versatile timestamp options:
 - **Relative Time**:
   - `<t:1695376800:R>`: 2 hours ago
 - **User's Birthday**:
-  - `<t:bdday>`: 22 (Displays the user's birthday and auto-updates annually.)
+  - `<t:bdday:b>`: 22 (Displays the user's birthday and auto-updates annually.)
 
 ### 💬 Built-In Chat & StarMark
 Stay connected and organized:
