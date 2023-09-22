@@ -72,7 +72,7 @@ At StarOwl Social, we believe in providing an open canvas:
 
 ---
 
-### 💎 Daily Mineral Bot 🪨 (Discord)
+### [💎 Discord Daily Mineral Bot 🪨](https://github.com/Star-Owl/daily-mineral-bot)
 
 ---
 
