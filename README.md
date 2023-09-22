@@ -36,7 +36,7 @@ Making your content stand out is a breeze with our user-friendly markdown system
 - **Bold**: `**bold**`
 - **Italics**: `*italics*` or `_italics_`
 - **Underline**: `__underline__`
-- **Strikethrough**: `--strikethrough--`
+- **Strikethrough**: `~~strikethrough~~`
 - **Code**: `` `code` ``
 - **Spoiler**: `||spoiler||`
 - **Links**: `[this is google](https://google.com)`
