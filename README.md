@@ -17,13 +17,13 @@ We're a cozy corner of the internet where art and tech hang out like best buds. 
 
 ### [⭐️ StarOwl Social 🦉](https://github.com/Star-Owl/Star-Owl-Social)
 
-> [!IMPORTANT]
-> The project is suspended indefinitely.
-
 Dive into the heart of the artistic universe with StarOwl Social! 
 
 **What's StarOwl Social?**  
 StarOwl Social is our standout platform, tailored for all kinds of artists out there. Musicians, writers, 3D modelers, voice actors, painters - everyone finds their niche here.
+
+> [!IMPORTANT]
+> The project is suspended indefinitely.
 
 ## Key Features:
 
