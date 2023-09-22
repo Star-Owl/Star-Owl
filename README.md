@@ -1,14 +1,3 @@
-<!--- 👋 Hi, I’m @Star-Owl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
-
-<!---
-Star-Owl/Star-Owl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 # ♠️♦️ Poker Cats Creations ♣️♥️
 
 > Bridging the gap between creativity and technology.
@@ -80,6 +69,8 @@ Stay connected and organized:
 At StarOwl Social, we believe in providing an open canvas:
 - A community dedicated to fostering creativity without imposing hefty limitations.
 - Every artist, irrespective of their subscription status, enjoys the same visibility. Your voice and art matter equally here.
+
+### 💎 Daily Mineral Bot 🪨 (Discord)
 
 ---
 
