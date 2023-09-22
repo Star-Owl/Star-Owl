@@ -70,6 +70,8 @@ At StarOwl Social, we believe in providing an open canvas:
 - A community dedicated to fostering creativity without imposing hefty limitations.
 - Every artist, irrespective of their subscription status, enjoys the same visibility. Your voice and art matter equally here.
 
+---
+
 ### 💎 Daily Mineral Bot 🪨 (Discord)
 
 ---
